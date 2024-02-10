@@ -3,6 +3,8 @@ Inventory Management ( CATALOGUE DIGITIZATION SYSTEM )
 
 Posly is a versatile inventory management system with an integrated Point of Sale (POS) feature to streamline various aspects of your business operations. Whether you’re a small business owner or part of a larger enterprise, Posly offers a comprehensive platform for managing inventory, sales, purchases, and customer interactions.
 
+
+
 **Key Features:**
 
 Effortless Installation: Get up and running quickly with a simple installation process that takes just 5 minutes.
